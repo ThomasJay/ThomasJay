@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![linkedin](https://visitor-badge.glitch.me/badge?page_id=page.id)
+![linkedin](https://www.linkedin.com/pub/thomas-jay/1/ba0/3b2)
 
 [[params.social]]
     icon = "linkedin"
