@@ -16,7 +16,10 @@ I work on lots of back end API's with Java / Spring Boot, Node.js / Express as w
 
 I love IoT systems, from Medical devices to Ag Tech, I have a home Hydroponics system and live on 10 Acres so its not a small system :)
 
+I'm located near San Francisco in the Sierra Foothills.
+
 Feel free to checkout any of my public projects, I create these as I give classes to help students learn and as a resource.
+
 
 
 
