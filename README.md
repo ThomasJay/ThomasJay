@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Nice to see you here &nbsp; ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+## Nice to see you here! &nbsp; ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
