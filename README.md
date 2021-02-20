@@ -1,10 +1,7 @@
 ### Hi, I'm Thomas Jay
 
 
-
 ## 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThomasJay&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-
 
 I'm a software engineer with a passion for startups.
 
@@ -36,7 +33,9 @@ Feel free to connect on LinkedIn.
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/pub/thomas-jay/1/ba0/3b2)
     
     
-    
+## 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThomasJay&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
     
     
 ## Nice to see you here! &nbsp; 
