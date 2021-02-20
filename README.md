@@ -5,23 +5,25 @@
 ## Stats
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThomasJay&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
+I'm a software engineer with a passion for startups.
 
-<!--
-**ThomasJay/ThomasJay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I enjoy learning new technologies and teaching.
 
-Here are some ideas to get you started:
+I focus mainly on Mobile, lots of React Native, iOS (Objetive-C and Swift) as well as Android (Java).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I work on lots of back end API's with Java / Spring Boot, Node.js / Express as well as Servless AWS / Lambda's.
+
+I love IoT systems, from Medical devices to Ag Tech, I have a home Hydroponics system and live on 10 Acres so its not a small system :)
+
+Feel free to checkout any of my public projects, I create these as I give classes to help students learn and as a resource.
+
+I also have a few Udemy Classes, freel free to check them out.
+
+
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/pub/thomas-jay/1/ba0/3b2)
+
+[![Udemy Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.udemy.com/user/tomjay2)
 
 
     
