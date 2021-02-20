@@ -23,7 +23,7 @@ I also have a few Udemy Classes, freel free to check them out.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/pub/thomas-jay/1/ba0/3b2)
 
-[![Udemy Badge](https://www.udemy.com/staticx/udemy/images/v6/logo-coral.svg)](https://www.udemy.com/user/tomjay2)
+[![Udemy Badge](https://about.udemy.com/wp-content/themes/wp-about/assets/images/udemy-logo-red.svg)](https://www.udemy.com/user/tomjay2)
 
 
     
