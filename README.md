@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![linkedin](https://visitor-badge.glitch.me/badge?page_id=page.id)
+
 [[params.social]]
     icon = "linkedin"
     icon_pack = "fa"
