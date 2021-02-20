@@ -21,12 +21,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![linkedin](https://www.linkedin.com/pub/thomas-jay/1/ba0/3b2)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/pub/thomas-jay/1/ba0/3b2)
 
-[[params.social]]
-    icon = "linkedin"
-    icon_pack = "fa"
-    link = "//www.linkedin.com/pub/thomas-jay/1/ba0/3b2"
+
     
 ## Nice to see you here! &nbsp; ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
