@@ -17,15 +17,13 @@ I love IoT systems, from Medical devices to Ag Tech, I have a home Hydroponics s
 
 Feel free to checkout any of my public projects, I create these as I give classes to help students learn and as a resource.
 
-I also have a few Udemy Classes, freel free to check them out.
 
 
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/pub/thomas-jay/1/ba0/3b2)
-
-[![Udemy Badge](https://about.udemy.com/wp-content/themes/wp-about/assets/images/udemy-logo-red.svg)](https://www.udemy.com/user/tomjay2)
+I also have a few Udemy Classes, freel free to check them out. [![Udemy Badge](https://about.udemy.com/wp-content/themes/wp-about/assets/images/udemy-logo-red.svg)](https://www.udemy.com/user/tomjay2)
 
 
+Feel free to connect on LinkedIn. [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/pub/thomas-jay/1/ba0/3b2)
+    
     
 ## Nice to see you here! &nbsp; ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
