@@ -39,6 +39,6 @@ Feel free to connect on LinkedIn.
 
 
 ##
-### Nice to see you here! &nbsp; 
+### Thanks for stopping by! &nbsp; 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
