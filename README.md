@@ -25,12 +25,18 @@ I also have a few Udemy Classes, freel free to check them out.
 
 [![Udemy Badge](https://about.udemy.com/wp-content/themes/wp-about/assets/images/udemy-logo-red.svg)](https://www.udemy.com/user/tomjay2)
 
+##
+I also have a few YouTube videos, freel free to check them out. 
+
+[![YouTube](https://about.udemy.com/wp-content/themes/wp-about/assets/images/udemy-logo-red.svg)]([https://www.udemy.com/user/tomjay2](https://www.youtube.com/@fastandsimpledevelopment))
+
+
 
 
 ##
 Feel free to connect on LinkedIn. 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/pub/thomas-jay/1/ba0/3b2)
+[![Linkedin Badge]([https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white](https://yt3.googleusercontent.com/3WQIgLWm0rsKRJAfMHcdS7X1f7rBNVVnlhGG2nYee6UzxgLdt9SoXKeeTT29GMF8B4YHq4XYP1k=s88-c-k-c0x00ffffff-no-rj-mo))](https://www.linkedin.com/pub/thomas-jay/1/ba0/3b2)
     
     
 ## 
