@@ -28,7 +28,7 @@ I also have a few Udemy Classes, freel free to check them out.
 ##
 I also have a few YouTube videos, freel free to check them out. 
 
-[![YouTube](https://www.youtube.com/@fastandsimpledevelopment))]([https://www.udemy.com/user/tomjay2](https://www.youtube.com/@fastandsimpledevelopment))
+[![YouTube](https://www.youtube.com/@fastandsimpledevelopment)](https://www.youtube.com/@fastandsimpledevelopment)
 
 
 
