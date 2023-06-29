@@ -21,12 +21,11 @@ Feel free to checkout any of my public projects, I create these as I give classe
 
 
 ##
-I also have a few Udemy Classes, freel free to check them out. 
+I also have a few Udemy Classes and YouTube videos, freel free to check them out. 
 
 [![Udemy Badge](https://about.udemy.com/wp-content/themes/wp-about/assets/images/udemy-logo-red.svg)](https://www.udemy.com/user/tomjay2)
 
-##
-I also have a few YouTube videos, freel free to check them out. 
+
 
 [![YouTube](https://www.youtube.com/@fastandsimpledevelopment)](https://www.youtube.com/@fastandsimpledevelopment)
 
